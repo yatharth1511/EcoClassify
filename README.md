@@ -56,8 +56,8 @@ Web App Deployment: The gradio_resnet_app.py script uses the best-performing Res
 💻 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/vanshgargji/ecoclassify.git
-cd vanshgargji-ecoclassify
+git clone https://github.com/yatharth1511/EcoClassify.git
+cd yatharthsharma1511-ecoclassify
 
 2. Install Dependencies
 
